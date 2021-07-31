@@ -1,1 +1,1 @@
-My app make eith sprig boot
+My app make with sprig boot
