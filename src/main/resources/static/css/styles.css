@@ -1,0 +1,8 @@
+#brand-icon{
+    width:35px;
+    height:35px;
+}
+#entry-time input, #departure-time input{
+    border: none;
+    background-color: inherit;
+}
